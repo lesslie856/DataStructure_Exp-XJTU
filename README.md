@@ -21,6 +21,8 @@ import matplotlib.pyplot as plt
 # 建议使用pycharm环境运行代码
 ```
 
+代码中已给出比较详细的注释，如果有问题和改进，e-mail：lesslie@stu.xjtu.edu.cn
+
 # **切勿抄袭！本代码和报告均与老师沟通过，代码如若抄袭或雷同成绩将记0分！**   
 
 # **代码仅供参考！**
