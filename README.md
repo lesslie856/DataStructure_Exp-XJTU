@@ -1,5 +1,5 @@
 # DataStructure_Exp-XJTU
-  *This file includes the 4 question I choosed in the DS course, I will upload the sourse code for you . If this code is helpful for you, plz give me a star* ：）
+  *This file includes the 4 question I choosed in the DS course. Hope this rep can be helpful to you ：）
 
  *  迷宫问题(注意将两张gif文件放在code的同一目录中) 
  *  二叉树
