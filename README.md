@@ -18,11 +18,8 @@ import random
 import networkx as nx
 import matplotlib.pyplot as plt
 
-# 建议使用pycharm环境运行代码
-```
 
-代码中已给出比较详细的注释，如果有问题和改进，e-mail：lesslie@stu.xjtu.edu.cn
+## Updata 2023
+数据结构建议好好做，亚神是你破交CS里为数不多讲的好的老师
+后边抽象的老师能恶心死你
 
-# **切勿抄袭！本代码和报告均与老师沟通过，代码如若抄袭或雷同成绩将记0分！**   
-
-# **代码仅供参考！**
