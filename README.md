@@ -17,7 +17,7 @@ import numpy as np
 import random
 import networkx as nx
 import matplotlib.pyplot as plt
-
+```
 
 ## Updata 2023
 数据结构建议好好做，亚神是你破交CS里为数不多讲的好的老师
